@@ -1,0 +1,6 @@
+{
+    "tasks": [
+      { "id": 1, "task": "Learn Angular", "completed": false },
+      { "id": 2, "task": "Develop Todo App", "completed": false }
+    ]
+  }
